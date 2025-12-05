@@ -1,0 +1,6 @@
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\bin\Debug\First_question.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\bin\Debug\First_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\bin\Debug\First_question.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\obj\Debug\First_question.csprojResolveAssemblyReference.cache
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\obj\Debug\First_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\First_question\First_question\obj\Debug\First_question.pdb
